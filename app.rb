@@ -7,7 +7,7 @@ def ask_i(question)
   ask(question).to_i
 end
 
-puts "Formula de Harris Benedict (Taxa de metabolismo)
+puts "Formula de Harris Benedict (Taxa de metabolismo)\n\n"
 
 gender = ask('Genero(m/f)')
 age = ask_i('Idade(anos)')
